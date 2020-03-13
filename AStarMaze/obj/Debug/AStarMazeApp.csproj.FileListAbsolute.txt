@@ -1,0 +1,9 @@
+H:\Users\Alex\Desktop\Artificial Intelligence\Hw2\temp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\Users\Alex\Desktop\Artificial Intelligence\Hw2\temp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\Users\Alex\Desktop\Artificial Intelligence\Hw2\temp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\Users\Alex\Desktop\Artificial Intelligence\Hw2\temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AStarMazeApp.csprojAssemblyReference.cache
+H:\Users\Alex\Desktop\Artificial Intelligence\Hw2\temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Maze.resources
+H:\Users\Alex\Desktop\Artificial Intelligence\Hw2\temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\Users\Alex\Desktop\Artificial Intelligence\Hw2\temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AStarMazeApp.csproj.GenerateResource.cache
+H:\Users\Alex\Desktop\Artificial Intelligence\Hw2\temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\Users\Alex\Desktop\Artificial Intelligence\Hw2\temp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
